@@ -11,8 +11,8 @@ Open up Stylus, import the Json file from this repository.
 If you're not using port 8989 then change the 8989 at end of the file from 
 ```
 "regexps": [
-					".*:8989.*"
-				]
+   ".*:8989.*"
+]
 ```
 to whatever port you're using.
 
