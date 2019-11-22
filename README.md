@@ -1,7 +1,10 @@
 # Lighterr for Sonarr 3
-Light theme for Sonarr v3
+Light theme for Sonarr v3 - Chrome / Stylus at the moment.
 
-I'm still refining it so will update it as I make changes and find any old dark stuff I missed :-)
+It's early days on this and i'm definitely still refining it so will update it as I make changes and find any old dark stuff I missed :-)
+
+Happy to receive feedback or requests etc.
+
 
 ## Installation
 I will do some proper installation instructions and maybe a version that autoupdates etc... but for now you'll need to use the Stylus plugin for Chrome or Firefox.
