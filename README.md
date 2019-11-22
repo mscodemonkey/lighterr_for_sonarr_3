@@ -17,4 +17,4 @@ If you're not using port 8989 then change the 8989 at end of the file from
 to whatever port you're using.
 
 ## Screenshot
-![Screenshot for Lighterr](https://github.com/mscodemonkey/lighterr_for_sonarr_3/raw/master/src/Lighterr.png "Screenshot")
+![Screenshot for Lighterr](https://raw.githubusercontent.com/mscodemonkey/lighterr_for_sonarr_3/master/Lighterr.png "Screenshot")
